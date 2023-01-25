@@ -1,4 +1,4 @@
-<h1 align="center">oi, sou Letícia</h1>
+<h2 align="center">oi, sou Letícia</h2>
 <h3 align="center">Entusiasta pela área de dados.</h3>
 
 - 🌱 Atualmente estou aprendendo **SQL para análise de dados e python**

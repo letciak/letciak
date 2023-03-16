@@ -1,6 +1,3 @@
-<h2 align="center">oi, sou Letícia</h2>
-<h3 align="center">Entusiasta pela área de dados.</h3>
-
 - 🌱 Atualmente estou estudando **SQL para análise de dados e python**
 
 - 👯 Também estou colaborando em um projeto de pesquisa na faculdade com **Análise de microdados do Enade**

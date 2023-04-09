@@ -1,4 +1,4 @@
-- 🌱 Atualmente estou estudando **Python para análise de dados**
+- 🌱 Atualmente estou estudando **Java para web e banco de dados**
 
 - 👯 Também estou colaborando em um projeto de pesquisa na faculdade com **Análise de microdados do Enade**
 

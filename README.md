@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente estou aprendendo **Python e sql para análise de dados**
 
-- 👯 Também estou colaborando em um projeto de pesquisa na faculdade **Análise de microdados do Enade**
+- 👯 Também estou colaborando em um projeto de pesquisa na faculdade: **Análise de microdados do Enade**
 
 - 📫 Entre em contato através do e-mail **leticiafreitas.ti@gmail.com**
 

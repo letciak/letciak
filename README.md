@@ -8,7 +8,7 @@
 
 - 📄 Saiba mais sobre minhas experiências através do meu linkedin [https://www.linkedin.com/in/let%C3%ADcia-freitas23/](https://www.linkedin.com/in/let%C3%ADcia-freitas23/)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 

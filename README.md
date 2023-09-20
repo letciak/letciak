@@ -1,5 +1,3 @@
-<h1 align="center">oi, sou Letícia</h1>
-
 - 🌱 Atualmente estou aprendendo **Python e sql para análise de dados**
 
 - 👯 Também estou colaborando em um projeto de pesquisa na faculdade: **Análise de microdados do Enade**
